@@ -1,0 +1,27 @@
+body
+{
+    background:  #00b8e6;
+    color: #fff;
+}
+
+.aa
+{
+  width: 120px;
+  border-radius: 10px;
+
+}
+.ee
+{
+  width: 20%;
+  size: 1px;
+  margin-top: 50px;
+}
+.bb
+{
+  color: #fff;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 8px 10px;
+  border-radius: 10px;
+  line-height: 25px;
+}
